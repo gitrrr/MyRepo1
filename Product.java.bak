@@ -4,6 +4,7 @@ public class Product
 	private int productId;
 	private String productName;
 	private double productPrice;
+	//pojo class methods
 	public void setProductId(int productId)
 	{
 		this.productId=productId;

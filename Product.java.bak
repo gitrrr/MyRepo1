@@ -28,4 +28,4 @@ public class Product
 	{
 		return productPrice;
 	}
-}
+}//this is product pojo class ending
